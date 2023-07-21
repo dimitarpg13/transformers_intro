@@ -39,3 +39,21 @@
 * [Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TutorialOnLongShortTermMemory2019.pdf)
 
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
+
+## Medium
+
+* Transformers - The Bigger The Better? with Jordi Torres
+
+    https://towardsdatascience.com/transformers-the-bigger-the-better-19f39f222ee3
+
+* How to Take Advantage of the New Disruptive AI Technology Called Transformers with Jordi Torres
+
+    https://torres-ai.medium.com/how-to-take-advantage-of-the-new-disruptive-ai-technology-called-transformers-9e57a26506cb
+
+* Transformes: The New Gem of Deep Learning with Jordi Torres
+
+    https://torres-ai.medium.com/transformers-the-new-gem-of-deep-learning-d0ae04bc4a75
+
+* Transfer Learning: The Democratization of Transformers with Jori Torres
+
+    https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883
