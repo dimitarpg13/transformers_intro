@@ -41,6 +41,9 @@
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
+* Explainable AI: Visualizing Attention in Transformers with Abby Morgan
+
+    https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8
 
 * Transformers - The Bigger The Better? with Jordi Torres
 
