@@ -60,3 +60,7 @@
 * Transfer Learning: The Democratization of Transformers with Jori Torres
 
     https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883
+
+* Visualizing Attention in Vision Transformer with Aryan Jadon
+
+    https://medium.com/@aryanjadon/visualizing-attention-in-vision-transformer-c871908d86de
