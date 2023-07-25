@@ -38,6 +38,8 @@
 
 * [Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TutorialOnLongShortTermMemory2019.pdf)
 
+* [Meta-Transformer: A Unified Framework for Multimodal Learning, Zhang, Y, et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Meta-Transformer_Unified_Framework_for_Multi-Modal_Learning_2023.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
