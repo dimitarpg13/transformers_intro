@@ -1,4 +1,4 @@
-# transformers_intro
+# Transformers Introduction and Discussion
 
 This repo is a work in progress.
 
