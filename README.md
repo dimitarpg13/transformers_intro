@@ -5,7 +5,7 @@ This repo is a work in progress.
 This will be a systematic introduction to Transformers with well chosen examples starting with basic concepts such as Back-propagation. We will dive into Sequential Models, looking into RNNs, LSTM models and Gated RNNs. We will wade through Latent Semantic Analsysis and will look more closely into the concept of Attention.  
 
 
-## Other Relevant Work
+## Relevant Work
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
@@ -20,6 +20,8 @@ This will be a systematic introduction to Transformers with well chosen examples
  * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
+
+ * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
 
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
