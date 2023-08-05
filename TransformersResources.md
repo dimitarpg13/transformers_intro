@@ -43,26 +43,20 @@
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
-* Explainable AI: Visualizing Attention in Transformers with Abby Morgan
+* [Explainable AI: Visualizing Attention in Transformers with Abby Morgan](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
 
-    https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8
+* [Transformers - The Bigger The Better? with Jordi Torres](https://towardsdatascience.com/transformers-the-bigger-the-better-19f39f222ee3)
 
-* Transformers - The Bigger The Better? with Jordi Torres
+* [How to Take Advantage of the New Disruptive AI Technology Called Transformers with Jordi Torres](https://torres-ai.medium.com/how-to-take-advantage-of-the-new-disruptive-ai-technology-called-transformers-9e57a26506cb)
 
-    https://towardsdatascience.com/transformers-the-bigger-the-better-19f39f222ee3
+* [Transformes: The New Gem of Deep Learning with Jordi Torres](https://torres-ai.medium.com/transformers-the-new-gem-of-deep-learning-d0ae04bc4a75)
 
-* How to Take Advantage of the New Disruptive AI Technology Called Transformers with Jordi Torres
+* [Transfer Learning: The Democratization of Transformers with Jori Torres](https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883)
 
-    https://torres-ai.medium.com/how-to-take-advantage-of-the-new-disruptive-ai-technology-called-transformers-9e57a26506cb
+* [Visualizing Attention in Vision Transformer with Aryan Jadon](https://medium.com/@aryanjadon/visualizing-attention-in-vision-transformer-c871908d86de)
 
-* Transformes: The New Gem of Deep Learning with Jordi Torres
+* [The Transformer Architecture of GPT Models with Beatriz Stollniz](https://towardsdatascience.com/the-transformer-architecture-of-gpt-models-b8695b48728b)
 
-    https://torres-ai.medium.com/transformers-the-new-gem-of-deep-learning-d0ae04bc4a75
+* [Learning Transformers Code First Part 1 - The Setup with Lily Hughs-Robinson](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
 
-* Transfer Learning: The Democratization of Transformers with Jori Torres
-
-    https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883
-
-* Visualizing Attention in Vision Transformer with Aryan Jadon
-
-    https://medium.com/@aryanjadon/visualizing-attention-in-vision-transformer-c871908d86de
+* [Learning Transformers Code First Part 2 - GPT Up Close and Personal with Lily Hughs-Robinson](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
