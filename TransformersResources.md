@@ -62,3 +62,9 @@
 * [Learning Transformers Code First Part 2 - GPT Up Close and Personal with Lily Hughs-Robinson](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
 
 * [Were Abstract Painters The First Encoders with Wouter van Heeswijk](https://towardsdatascience.com/were-abstract-painters-the-first-encoders-49aa1e04ffd5)
+
+* [Understanding Temporal Fusion Transformer with Mouna Labiadh](https://medium.com/@mouna.labiadh/understanding-temporal-fusion-transformer-9a7a4fcde74b)
+
+    related article: [Temporal Fusion Transformer for Interpretable Multi-horizon Time Series Forecasting](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TemporalFusionTransformersforInterpretableMulti-horizonTimeSeriesForecasting_BrianLim_2021.pdf)
+
+* [Forecasting book sales with Temporal Fusion Transformer with Mouna Labiadh](https://medium.com/@mouna.labiadh/forecasting-book-sales-with-temporal-fusion-transformer-dd482a7a257c)
