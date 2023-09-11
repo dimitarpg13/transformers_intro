@@ -68,3 +68,5 @@
     related article: [Temporal Fusion Transformer for Interpretable Multi-horizon Time Series Forecasting](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TemporalFusionTransformersforInterpretableMulti-horizonTimeSeriesForecasting_BrianLim_2021.pdf)
 
 * [Forecasting book sales with Temporal Fusion Transformer with Mouna Labiadh](https://medium.com/@mouna.labiadh/forecasting-book-sales-with-temporal-fusion-transformer-dd482a7a257c)
+
+* [Personalized Recommendations with Transformers with Enis Teper](https://medium.com/hepsiburada-data-science/personalized-recommendations-with-transformers-11c13cff2be)
