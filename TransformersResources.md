@@ -47,6 +47,8 @@
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
+* [Transformers — Intuitively and Exhaustively Explained with Daniel Warfield](https://towardsdatascience.com/transformers-intuitively-and-exhaustively-explained-58a5c5df8dbb)
+
 * [Explainable AI: Visualizing Attention in Transformers with Abby Morgan](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
 
 * [Transformers - The Bigger The Better? with Jordi Torres](https://towardsdatascience.com/transformers-the-bigger-the-better-19f39f222ee3)
