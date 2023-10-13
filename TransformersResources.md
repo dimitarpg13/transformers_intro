@@ -49,6 +49,8 @@
 ## Medium
 * [Transformers — Intuitively and Exhaustively Explained with Daniel Warfield](https://towardsdatascience.com/transformers-intuitively-and-exhaustively-explained-58a5c5df8dbb)
 
+* [De-coded: Transformers explained in plain English with Chris Hughes](https://towardsdatascience.com/de-coded-transformers-explained-in-plain-english-877814ba6430)
+
 * [Explainable AI: Visualizing Attention in Transformers with Abby Morgan](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
 
 * [Transformers - The Bigger The Better? with Jordi Torres](https://towardsdatascience.com/transformers-the-bigger-the-better-19f39f222ee3)
