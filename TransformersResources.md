@@ -16,6 +16,8 @@
 
 * [Attention in Natural Language Processing, Galassi et al., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/AttentionInNaturalLanguageProcessing.pdf)
 
+* [HyperAttention: Long-context Attention in Near-Linear Time, Insu Han et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/HyperAttention-Long-context_Attention_in_Near-Linear_Time_Han_2023.pdf)
+
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al., Google AI, 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/BERTPretrainingofDeepBidirectionalTransformersforLanguageUnderstanding.pdf)
 
 * [FAIRSEQ: A Fast, Extensible Toolkit for Sequence Modeling, Ott et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FairseqAFastExtensibleToolkitForSequenceModeling.pdf)
