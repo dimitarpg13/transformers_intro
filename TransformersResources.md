@@ -80,3 +80,6 @@
 * [Forecasting book sales with Temporal Fusion Transformer with Mouna Labiadh](https://medium.com/@mouna.labiadh/forecasting-book-sales-with-temporal-fusion-transformer-dd482a7a257c)
 
 * [Personalized Recommendations with Transformers with Enis Teper](https://medium.com/hepsiburada-data-science/personalized-recommendations-with-transformers-11c13cff2be)
+
+* [Hidden Markov Models Simplified with Sanjay Dorairaj](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)
+
