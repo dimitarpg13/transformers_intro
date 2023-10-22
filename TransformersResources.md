@@ -83,3 +83,4 @@
 
 * [Hidden Markov Models Simplified with Sanjay Dorairaj](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)
 
+* [Rubik’s cubes and Markov chains with Eduardo Teste](https://towardsdatascience.com/a-random-walk-on-the-rubiks-cube-684dd304bf3e)
