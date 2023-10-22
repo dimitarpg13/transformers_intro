@@ -46,6 +46,8 @@
 
 * [Boolformer: Symbolic Regression of Logic Functions with Transformers, d'Ascoli et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/OnthePropertiesOfNeuralMachineTranslationEncoderDecoderApproaches.pdf)
 
+* [Transformer-Based Direct Hidden Markov Model for Machine Translation, W. Wang et al, Aachen U, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/markov/Transformer-Based_Direct_Hidden_Markov_Model_for_Machine_Translation_Wang_AachenU_2021.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
