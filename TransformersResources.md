@@ -75,6 +75,20 @@
 
 * [Were Abstract Painters The First Encoders with Wouter van Heeswijk](https://towardsdatascience.com/were-abstract-painters-the-first-encoders-49aa1e04ffd5)
 
+* [Comparison of Convolutional Neural Networks and Vision Transformers (ViTs) with Illas Papastratis](https://medium.com/@iliaspapastratis/comparison-of-convolutional-neural-networks-and-vision-transformers-vits-a8fc5486c5be)
+
+    related paper: [Do Vision Transformers See Like Convolutional Neural Networks? M. Raghu, Google Brain, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Do_Vision_Transformers_See_Like_Convolutional_Neural_Networks_Raghu_GoogleBrain_2021.pdf)
+
+    related paper: [How Do Vision Transformers Work? N. Park et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/How_Do_Vision_Transformers_Work_Park_2022.pdf)
+
+    related paper: [An Image is Worth 16X16 Wwords: Transformers for Image Recognition at Scale, A. Dosovitskiy, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/BERTPretrainingofDeepBidirectionalTransformersforLanguageUnderstanding.pdf)
+
+    related blog: https://blog.research.google/2020/12/transformers-for-image-recognition-at.html
+
+    related blog: https://becominghuman.ai/transformers-in-vision-e2e87b739feb
+
+    related blog: https://viso.ai/deep-learning/vision-transformer-vit/
+
 * [Understanding Temporal Fusion Transformer with Mouna Labiadh](https://medium.com/@mouna.labiadh/understanding-temporal-fusion-transformer-9a7a4fcde74b)
 
     related article: [Temporal Fusion Transformer for Interpretable Multi-horizon Time Series Forecasting](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TemporalFusionTransformersforInterpretableMulti-horizonTimeSeriesForecasting_BrianLim_2021.pdf)
