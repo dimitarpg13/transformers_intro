@@ -44,6 +44,8 @@
 
 * [Small-scale proxies for large-scale Transformer training instabilities, M. Wortsman et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Small-scale_proxies_for_large-scale_Transformer_training_instabilities_Wortsman_2023.pdf)
 
+* [Formal Algorithms for Transformers, M. Phuong et al, DeepMind, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Formal_Algorithms_for_Transformers_Phuong_DeepMind_2022.pdf)
+
 * [Boolformer: Symbolic Regression of Logic Functions with Transformers, d'Ascoli et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/OnthePropertiesOfNeuralMachineTranslationEncoderDecoderApproaches.pdf)
 
 * [Transformer-Based Direct Hidden Markov Model for Machine Translation, W. Wang et al, Aachen U, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/markov/Transformer-Based_Direct_Hidden_Markov_Model_for_Machine_Translation_Wang_AachenU_2021.pdf)
