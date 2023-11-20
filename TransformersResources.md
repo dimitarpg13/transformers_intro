@@ -80,7 +80,8 @@
 
 * [Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models, D. Fu et al, USC, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_Learn_Higher-Order_Optimization_Methods_for_In-Context_Learning-A_Study_with_Linear_Models_Fu_USC_2023.pdf)
 
-* [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
+
+[... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
 * [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
