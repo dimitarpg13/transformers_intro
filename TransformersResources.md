@@ -52,6 +52,20 @@
 
 ## In-context learning with Transformers
 
+* [Hierarchical Attention Networks for Document Classification, Z. Yang et al, CMU, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Hierarchical_Attention_Networks_for_Document_Classification_Yang_CMU_2016.pdf)
+
+* [Attention using Context Vector: Hierarchical Attention Networks for Document Classification, DataScience.StackExchange, 2017](https://datascience.stackexchange.com/questions/19346/attention-using-context-vector-hierarchical-attention-networks-for-document-cla)
+
+* [What is the difference between positional vector and attention vector used in transformer model? DataScience.StackExchange, 2019](https://datascience.stackexchange.com/questions/77093/what-is-the-difference-between-positional-vector-and-attention-vector-used-in-tr)
+
+* [Why does an attention layer in a transformer learn context?, DataScience.StackExchange, 2020](https://datascience.stackexchange.com/questions/85301/why-does-an-attention-layer-in-a-transformer-learn-context)
+
+* [Data Distributional Properties Drive Emergent In-Context Learning in Transformers, S. Chan et al, DeepMind, NeurIPS, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/NeurIPS-2022-data-distributional-properties-drive-emergent-in-context-learning-in-transformers-Paper-Conference.pdf)
+
+* [In-Context Learning with Transformer-Based Neural Sequence Models, Jair Ribeiro, Towards AI publication, 2023](https://pub.towardsai.net/in-context-learning-with-transformer-based-neural-sequence-models-136af9848d15)
+
+* [In-context Learning and Induction Heads, Catherine Olsson et al, Anthropic, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/In-context_Learning_and_Induction_Heads_Olsson_Anthropic_2023.pdf)
+
 * [Transformers Learn In-Context by Gradient Descent, Johannes von Oswald et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_Learn_In-Context_by_Gradient_Descent_von_Oswald_2023.pdf)
 
 * [Transformers as Algorithms: Generalization and Stability in In-context Learning, Y. Li et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_as_Algorithms-Generalization_and_Stability_in_In-context_Learning_Li_2023.pdf)
@@ -60,8 +74,11 @@
 
     related repo: https://github.com/dtsip/in-context-learning
 
-
 * [The Transient Nature of Emergent In-Context Learning in Transformers, A. Singh et al, UCL, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/The_Transient_Nature_of_Emergent_In-Context_Learning_in_Transformers_Singh_UCL_2023.pdf)
+
+* [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions, S. Bhattamishra, Oxford U., 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Understanding_In-Context_Learning_in_Transformers_and_LLMs_by_Learning_to_Learn_Discrete_Functions_Bhattamishra_2023.pdf) 
+
+* [Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models, D. Fu et al, USC, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_Learn_Higher-Order_Optimization_Methods_for_In-Context_Learning-A_Study_with_Linear_Models_Fu_USC_2023.pdf)
 
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
