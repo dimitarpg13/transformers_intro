@@ -82,7 +82,7 @@
 
 * [Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models, D. Fu et al, USC, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_Learn_Higher-Order_Optimization_Methods_for_In-Context_Learning-A_Study_with_Linear_Models_Fu_USC_2023.pdf)
 
-* [Learning linear models in-context with transformers with Spencer Frei (UC Davis), Imperial College London,youtube video](https://www.youtube.com/watch?v=_lf7CD8zRyQ)
+* [Learning linear models in-context with transformers with Spencer Frei (UC Davis), Imperial College London, youtube video](https://www.youtube.com/watch?v=_lf7CD8zRyQ)
 
 * [In-context Learning in Transformers - SLT Seminar 46, youtube video](https://www.youtube.com/watch?v=Y00HtwKO3BY)
 
