@@ -50,6 +50,19 @@
 
 * [Transformer-Based Direct Hidden Markov Model for Machine Translation, W. Wang et al, Aachen U, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/markov/Transformer-Based_Direct_Hidden_Markov_Model_for_Machine_Translation_Wang_AachenU_2021.pdf)
 
+## In-context learning with Transformers
+
+* [Transformers Learn In-Context by Gradient Descent, Johannes von Oswald et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_Learn_In-Context_by_Gradient_Descent_von_Oswald_2023.pdf)
+
+* [Transformers as Algorithms: Generalization and Stability in In-context Learning, Y. Li et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_as_Algorithms-Generalization_and_Stability_in_In-context_Learning_Li_2023.pdf)
+
+* [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes, S. Garg, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/What_Can_Transformers_Learn_In-Context_A_Case_Study_of_Simple_Function_Classes_Garg_2023.pdf)
+
+    related repo: https://github.com/dtsip/in-context-learning
+
+
+* [The Transient Nature of Emergent In-Context Learning in Transformers, A. Singh et al, UCL, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/The_Transient_Nature_of_Emergent_In-Context_Learning_in_Transformers_Singh_UCL_2023.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
