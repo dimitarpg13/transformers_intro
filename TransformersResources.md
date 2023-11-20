@@ -74,11 +74,17 @@
 
     related repo: https://github.com/dtsip/in-context-learning
 
+    related youtube presentation: https://www.youtube.com/watch?v=DiJsg93zQDc
+
 * [The Transient Nature of Emergent In-Context Learning in Transformers, A. Singh et al, UCL, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/The_Transient_Nature_of_Emergent_In-Context_Learning_in_Transformers_Singh_UCL_2023.pdf)
 
 * [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions, S. Bhattamishra, Oxford U., 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Understanding_In-Context_Learning_in_Transformers_and_LLMs_by_Learning_to_Learn_Discrete_Functions_Bhattamishra_2023.pdf) 
 
 * [Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models, D. Fu et al, USC, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Transformers_Learn_Higher-Order_Optimization_Methods_for_In-Context_Learning-A_Study_with_Linear_Models_Fu_USC_2023.pdf)
+
+* [Learning linear models in-context with transformers with Spencer Frei (UC Davis), Imperial College London,youtube video](https://www.youtube.com/watch?v=_lf7CD8zRyQ)
+
+* [In-context Learning in Transformers - SLT Seminar 46, youtube video](https://www.youtube.com/watch?v=Y00HtwKO3BY)
 
 
 [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
