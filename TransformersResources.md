@@ -50,6 +50,8 @@
 
 * [Transformer-Based Direct Hidden Markov Model for Machine Translation, W. Wang et al, Aachen U, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/markov/Transformer-Based_Direct_Hidden_Markov_Model_for_Machine_Translation_Wang_AachenU_2021.pdf)
 
+* [Simplifying Transformer Blocks, Bobbe He et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/SimplifyingTransformerBlocks_He2023.pdf)
+
 ## In-context learning with Transformers
 
 * [Hierarchical Attention Networks for Document Classification, Z. Yang et al, CMU, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Hierarchical_Attention_Networks_for_Document_Classification_Yang_CMU_2016.pdf)
