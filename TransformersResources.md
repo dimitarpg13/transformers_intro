@@ -86,6 +86,12 @@
 
 * [In-context Learning in Transformers - SLT Seminar 46, youtube video](https://www.youtube.com/watch?v=Y00HtwKO3BY)
 
+## Reinforcement Learning in Transformers
+
+* [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, Yevgen Chebotar et al, DeepMind, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Q-Transformer-Scalable_Offline_Reinforcement_Learning_via_Autoregressive_Q-Functions_Chebotar_DeepMind_2023.pdf)
+
+    related repo: https://qtransformer.github.io/
+
 
 [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
