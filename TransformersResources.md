@@ -153,3 +153,5 @@
 * [Hidden Markov Models Simplified with Sanjay Dorairaj](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)
 
 * [Rubik’s cubes and Markov chains with Eduardo Teste](https://towardsdatascience.com/a-random-walk-on-the-rubiks-cube-684dd304bf3e)
+
+* [Implementing Seq2Seq Models for Efficient Time Series Forecasting with Max Brenner](https://medium.com/@maxbrenner-ai/implementing-seq2seq-models-for-efficient-time-series-forecasting-88dba1d66187)
