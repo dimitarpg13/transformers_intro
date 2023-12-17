@@ -95,11 +95,13 @@
     related repo: https://qtransformer.github.io/
 
 
-## Hyper-Networks, MotherNet and TabPFN
+## Hyper-Networks, MotherNet and PFNs (Prior-Data Fitted Networks)
 
 * [HyperNetworks, David Ha, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/HyperNetworks_David_Ha_GoogleBrain_2017.pdf)
 
 * [MotherNet: A Foundational Hypernetwork for Tabular Classification, A.C. Mueller et al](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/MotherNet-A_Foundational_Hypernetwork_for_Tabular_Classification_Mueller_2023.pdf)
+
+* [Transformers Can Do Bayesian Inference, Samuel Mueller et al,U of Freiburg, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/Transformers_Can_Do_Bayesian_Inference_Mueller_2023.pdf)
 
 * [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second, Noah Hollman et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/TabPFN-A_Transformer_that_Solves_Small_Tabular_Classification_Problems_in_a_Second_Hollman_2023.pdf)
 
