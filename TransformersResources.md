@@ -105,6 +105,12 @@
 
 * [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second, Noah Hollman et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/TabPFN-A_Transformer_that_Solves_Small_Tabular_Classification_Problems_in_a_Second_Hollman_2023.pdf)
 
+
+## Using Sequences of Life-events to predict aspects of human life
+
+* [Using Sequences of Life-events to Predict Human Lives, Germans Savcisens et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Using_Sequences_of_Life-events_to_Predict_Human_Lives_Savcisens_2023.pdf)
+
+
 [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 ## Medium
