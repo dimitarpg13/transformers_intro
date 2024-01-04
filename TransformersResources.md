@@ -99,7 +99,7 @@
 
 * [HyperNetworks, David Ha, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/HyperNetworks_David_Ha_GoogleBrain_2017.pdf)
 
-* [MotherNet: A Foundational Hypernetwork for Tabular Classification, A.C. Mueller et al](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/MotherNet-A_Foundational_Hypernetwork_for_Tabular_Classification_Mueller_2023.pdf)
+* [MotherNet: A Foundational Hypernetwork for Tabular Classification, A.C. Mueller et al, Microsoft Research, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/MotherNet-A_Foundational_Hypernetwork_for_Tabular_Classification_Mueller_2023.pdf)
 
 * [Transformers Can Do Bayesian Inference, Samuel Mueller et al,U of Freiburg, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/MotherNet/Transformers_Can_Do_Bayesian_Inference_Mueller_2023.pdf)
 
