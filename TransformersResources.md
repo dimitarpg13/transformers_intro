@@ -42,6 +42,8 @@
 
 * [End-to-End Continuous Speech Recognition using Attention-based Recurrent NN: First Results, Jan Chorowski, Dzmitry Bandanau et al, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/End-to-end_Continuous_Speech_Recognition_using_Attention-based_Recurrent_NN-First_Results_Chorowski_2014.pdf)
 
+* [Recurrent Continuous Translation Models, Nal Kalchbrenner, Phil Blunsom, Oxford U, 2013](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Recurrent_continuous_translation_models_Kalchbrenner_Blunsson_OxfordU_2013.pdf)
+
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation, K. Cho, Dzmitry Bahdanau, et al, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Learning_Phrase_Representations_using_RNN_Encoder%E2%80%93Decoder_for_Statistical_Machine_Translation_Cho_UdMontreal_2014.pdf)
 
 * [Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TutorialOnLongShortTermMemory2019.pdf)
