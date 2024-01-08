@@ -30,6 +30,8 @@
 
 * [Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network, A. Sherstinsky, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FundamentalsOfRNNandLSTMNetwork.pdf)
 
+* [Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, 1997](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
+
 * [A Decomposable Attention Model for Natural Language Inference, Parikh et al., Google Research, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/DecomposableAttentionModelforNaturalLanguageInferenceParikhUszkoreit2016.pdf)
 
 * [Sequence to Sequence Learning with Neural Networks, Sutskever et al, Google Research, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/SequencetoSequenceLearningwithNeuralNetworksSutsekver2014.pdf)
