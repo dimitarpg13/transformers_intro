@@ -40,6 +40,8 @@
 
 * [LSTM Can Solve Hard Long Time Lag Problems, Sepp Hochreiter, Juergen Schmidthhuber, NIPS, 1996](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/NIPS-1996-lstm-can-solve-hard-long-time-lag-problems-Paper_Hochreiter.pdf)
 
+* [End-to-End Continuous Speech Recognition using Attention-based Recurrent NN: First Results, Jan Chorowski, Dzmitry Bandanau et al, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/End-to-end_Continuous_Speech_Recognition_using_Attention-based_Recurrent_NN-First_Results_Chorowski_2014.pdf)
+
 * [Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TutorialOnLongShortTermMemory2019.pdf)
 
 * [Generating Sequences with Recurrent Neural Networks, Alex Graves, UofToronto, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Generating_Sequences_With_Recurrent_Neural_Networks_Graves_2014.pdf)
