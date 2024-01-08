@@ -38,6 +38,8 @@
 
 * [Long Short-Term Memory, Sepp Hochreiter et al., 1997](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/LongShortTermMemory.pdf)
 
+* [LSTM Can Solve Hard Long Time Lag Problems, Sepp Hochreiter, Juergen Schmidthhuber, NIPS, 1996](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/NIPS-1996-lstm-can-solve-hard-long-time-lag-problems-Paper_Hochreiter.pdf)
+
 * [Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TutorialOnLongShortTermMemory2019.pdf)
 
 * [Generating Sequences with Recurrent Neural Networks, Alex Graves, UofToronto, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Generating_Sequences_With_Recurrent_Neural_Networks_Graves_2014.pdf)
