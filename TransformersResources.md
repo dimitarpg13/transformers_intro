@@ -32,6 +32,8 @@
 
 * [Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, 1997](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
 
+* [Neural Networks for Pattern Recognition, C. M. Bishop, 1995](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Neural_Networks_for_Pattern_Recognition-Bishop_1995.pdf)
+
 * [Translation Modeling with Bidirectional Recurrent Neural Networks, M. Sundermeyer, et al, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Translation_Modeling_with_Bidirectional_Recurrent_Neural_Networks_Sundermeyer_2014.pdf)
 
 * [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations, E. Kiperwasser, Y. Goldberg, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Simple_and_Accurate_Dependency_Parsing_Using_Bidirectional_LSTM_Feature_Representations_Kiperwasser_2016.pdf)
