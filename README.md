@@ -9,7 +9,7 @@ This will be a systematic introduction to Transformers with well chosen examples
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
- * [Self-Supervised Learning](https://github.com/dimitarpg13/self_supervised_learning/blob/main/SelfSupervisedLearningResources.md)
+ * [Offline Reinforcement and Self-Supervised Learning](https://github.com/dimitarpg13/self_supervised_learning/blob/main/SelfSupervisedLearningResources.md)
 
  * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
  
