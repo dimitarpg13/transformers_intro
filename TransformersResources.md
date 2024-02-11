@@ -108,6 +108,10 @@
 
 ## Reinforcement Learning in Transformers
 
+* [Decision Transformer: Reinforcement Learning via Sequence Modeling, Lili Chen et al, UC Berkeley, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Decision_Transformer-Reinforcement_Learning_via_Sequence_Modeling_Chen_GoogleDeepMind_2021.pdf)
+
+* [Stanford CS 25: Lecture 4 Decision Transformer: Reinforcement Learning via Sequence Modeling, youtube video](https://youtu.be/w4Bw8WYL8Ps)
+
 * [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, Yevgen Chebotar et al, DeepMind, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Q-Transformer-Scalable_Offline_Reinforcement_Learning_via_Autoregressive_Q-Functions_Chebotar_DeepMind_2023.pdf)
 
     related repo: https://qtransformer.github.io/
@@ -127,6 +131,8 @@
 ## Sequential Decision Modeling and Predictive Sequence Models
 
 * [Stanford CS 25: Lecture 4 Decision Transformer: Reinforcement Learning via Sequence Modeling, youtube video](https://youtu.be/w4Bw8WYL8Ps)
+
+* [Decision Transformer: Reinforcement Learning via Sequence Modeling, Lili Chen et al, UC Berkeley, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Decision_Transformer-Reinforcement_Learning_via_Sequence_Modeling_Chen_GoogleDeepMind_2021.pdf)
 
 * [Decision Transformer: Reinforcement Learning via Sequence Modeling (Research Paper Explained), youtube video](https://youtu.be/-buULmf7dec)
 
