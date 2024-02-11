@@ -189,3 +189,60 @@
 * [Rubik’s cubes and Markov chains with Eduardo Teste](https://towardsdatascience.com/a-random-walk-on-the-rubiks-cube-684dd304bf3e)
 
 * [Implementing Seq2Seq Models for Efficient Time Series Forecasting with Max Brenner](https://medium.com/@maxbrenner-ai/implementing-seq2seq-models-for-efficient-time-series-forecasting-88dba1d66187)
+
+## Classes and Lectures on Transformers
+
+### Stanford CS 25
+
+[Stanford CS 25 Transformers United Lectures Set youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+
+[Stanford CS 25: Lecture 1 Transformers United: DL Models that have revolutionized NLP, CV, RL](https://youtu.be/P127jhj-8-Y)
+
+[Stanford CS 25: Lecture 2 Transformers in Language: The development of GPT Models, GPT3](https://youtu.be/qGkzHFllWDY)
+
+[Stanford CS 25: Lecture 3 Transformers in Vision: Tackling problems in Computer Vision](https://youtu.be/BP5CM0YxbP8)
+
+[Stanford CS 25: Lecture 4 Decision Transformer: Reinforcement Learning via Sequence Modeling](https://youtu.be/w4Bw8WYL8Ps)
+
+[Stanford CS 25: Lecture 5 Mixture of Experts (MoE) paradigm and the Switch Transformer](https://youtu.be/U8J32Z3qV8s)
+
+[Stanford CS 25: Lecture 6 DeepMind's Perceiver and Perceiver IO: new data family architecture](https://youtu.be/wTZ3o36lXoQ)
+
+[Stanford CS 25: Lecture 7 Self Attention and Non-parametric transformers (NPTs)](https://youtu.be/zejXBg-2Vpk)
+
+[Stanford CS 25: Lecture 8 Transformer Circuits, Induction Heads, In-Context Learning](https://youtu.be/pC4zRb_5noQ)
+
+[Stanford CS 25: Lecture 9 Audio Research: Transformers for Applications in Audio, Speech, Music](https://youtu.be/wvE2n8u3drA)
+
+[Stanford CS 25: Lecture 10 Represent part-whole hierarchies in a neural network, Geoff Hinton](https://youtu.be/CYaju6aCMoQ)
+
+[Stanford CS 25: Lecture 11 Introduction to Transformers w/ Andrej Karpathy](https://youtu.be/XfpMkf4rD6E)
+
+[Stanford CS 25: Lecture 12 Language and Human Alignment](https://youtu.be/DJ1Yy6Aquug)
+
+[Stanford CS 25: Lecture 13 Emergent Abilities and Scaling in LLMs](https://youtu.be/tVtOevLrt5U)
+
+[Stanford CS 25: Lecture 14 Strategic Games](https://youtu.be/phWxl0nkgKk)
+
+[Stanford CS 25: Lecture 15 Robotics and Imitation Learning](https://youtu.be/ct4tdyyNDY4)
+
+[Stanford CS 25: Lecture 16 Common Sense Reasoning](https://youtu.be/sTQaJyrI-zg)
+
+[Stanford CS 25: Lecture 17 Biomedical Transformers](https://youtu.be/nz7_wg5iOlA)
+
+[Stanford CS 25: Lecture 18 Neuroscience-Inspired Artificial Intelligence](https://youtu.be/L4DC7e6g2iI)
+
+[Stanford CS 25: Lecture 19 Low-level Embodied Intelligence w/ Foundation Models](https://youtu.be/fz8wf9hN20c)
+
+[Stanford CS 25: Lecture 20 Generalist Agents in Open-Ended Worlds](https://youtu.be/wwQ1LQA3RCU)
+
+[Stanford CS 25: Lecture 21 How I Learned to Stop Worrying and Love the Transformer](https://youtu.be/1GbDTTK3aR4)
+
+[Stanford CS 25: Lecture 22 Recipe for Training Helpful Chatbots](https://youtu.be/mcep6W8oB1I)
+
+[Stanford CS 25: Lecture 23 No Language Left Behind: Scaling Human-Centered Machine Translation](https://youtu.be/ckNMsUuLryM)
+
+[Stanford CS 25: Lecture 24 Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM](https://youtu.be/ylEk1TE1uBo)
+
+[Stanford CS 25: Lecture 25 Retrieval Augmented Language Models](https://youtu.be/mE7IDf2SmJg)
+
