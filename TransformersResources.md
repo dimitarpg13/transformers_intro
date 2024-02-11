@@ -128,6 +128,8 @@
 
 * [Stanford CS 25: Lecture 4 Decision Transformer: Reinforcement Learning via Sequence Modeling, youtube video](https://youtu.be/w4Bw8WYL8Ps)
 
+* [Decision Transformer: Reinforcement Learning via Sequence Modeling (Research Paper Explained), youtube video](https://youtu.be/-buULmf7dec)
+
 * [Using Sequences of Life-events to Predict Human Lives, Germans Savcisens et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Using_Sequences_of_Life-events_to_Predict_Human_Lives_Savcisens_2023.pdf)
 
 
