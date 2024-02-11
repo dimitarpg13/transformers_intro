@@ -196,6 +196,8 @@
 
 ### Stanford CS 25
 
+[Stanford CS 25 Home url](https://web.stanford.edu/class/cs25/)
+
 [Stanford CS 25 Transformers United: 25 Lectures Set, youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 [Stanford CS 25: Lecture 1 Transformers United: DL Models that have revolutionized NLP, CV, RL](https://youtu.be/P127jhj-8-Y)
