@@ -141,6 +141,26 @@
 
 [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
+
+## Vision Transformers
+* [Visualizing Attention in Vision Transformer with Aryan Jadon](https://medium.com/@aryanjadon/visualizing-attention-in-vision-transformer-c871908d86de)
+
+* [Vision Transformers, Explained, Skylar Jean Callis, Toward Data Science, Feb, 2024](https://towardsdatascience.com/vision-transformers-explained-a9d07147e4c8)
+
+* [Comparison of Convolutional Neural Networks and Vision Transformers (ViTs) with Illas Papastratis](https://medium.com/@iliaspapastratis/comparison-of-convolutional-neural-networks-and-vision-transformers-vits-a8fc5486c5be)
+
+* [Do Vision Transformers See Like Convolutional Neural Networks? M. Raghu, Google Brain, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Do_Vision_Transformers_See_Like_Convolutional_Neural_Networks_Raghu_GoogleBrain_2021.pdf)
+
+* [How Do Vision Transformers Work? N. Park et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/How_Do_Vision_Transformers_Work_Park_2022.pdf)
+
+* [An Image is Worth 16X16 Wwords: Transformers for Image Recognition at Scale, A. Dosovitskiy, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/BERTPretrainingofDeepBidirectionalTransformersforLanguageUnderstanding.pdf)
+
+* [Transformers for Image Recognition at Scale, Nel Houlsby and Dirk Weissenborn, Dec 2020, blog](https://blog.research.google/2020/12/transformers-for-image-recognition-at.html)
+
+* [Why Transformers are Slowly Replacing CNNs in Computer Vision? Pranoy Radhakrishnan, Aug 2021, Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/transformers-in-vision-e2e87b739feb)
+
+* [Vision Transformers (ViT) in Image Recognition – 2024 Guide, Gaudenz Boesch, viso.ai blog](https://viso.ai/deep-learning/vision-transformer-vit/)
+
 ## Medium
 * [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
     
@@ -163,6 +183,8 @@
 * [Transfer Learning: The Democratization of Transformers with Jori Torres](https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883)
 
 * [Visualizing Attention in Vision Transformer with Aryan Jadon](https://medium.com/@aryanjadon/visualizing-attention-in-vision-transformer-c871908d86de)
+
+* [Vision Transformers, Explained, Skylar Jean Callis, Toward Data Science, Feb, 2024](https://towardsdatascience.com/vision-transformers-explained-a9d07147e4c8)
 
 * [The Transformer Architecture of GPT Models with Beatriz Stollniz](https://towardsdatascience.com/the-transformer-architecture-of-gpt-models-b8695b48728b)
 
