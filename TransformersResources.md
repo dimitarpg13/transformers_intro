@@ -74,6 +74,8 @@
 
 * [Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
 
+* [Efficient Estimation of Word Representations in Vector Space, Tomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_Google_2013.pdf)
+
 ## In-context learning with Transformers
 
 * [Hierarchical Attention Networks for Document Classification, Z. Yang et al, CMU, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Hierarchical_Attention_Networks_for_Document_Classification_Yang_CMU_2016.pdf)
