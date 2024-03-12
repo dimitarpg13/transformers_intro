@@ -70,6 +70,10 @@
 
 * [Simplifying Transformer Blocks, Bobbe He et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/SimplifyingTransformerBlocks_He2023.pdf)
 
+## Embeddings
+
+* [Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
+
 ## In-context learning with Transformers
 
 * [Hierarchical Attention Networks for Document Classification, Z. Yang et al, CMU, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/in-context_learning/Hierarchical_Attention_Networks_for_Document_Classification_Yang_CMU_2016.pdf)
