@@ -161,6 +161,12 @@
 
 * [Vision Transformers (ViT) in Image Recognition – 2024 Guide, Gaudenz Boesch, viso.ai blog](https://viso.ai/deep-learning/vision-transformer-vit/)
 
+## State Space Models (an alternative of Transformers)
+
+* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf.pdf)
+
+* [Why Mamba was rejected? Joe El Khoury, Medium, Feb 28, 2024](https://medium.com/@jelkhoury880/why-mamba-was-rejected-9b2f05f2141c)
+
 ## Medium
 * [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
     
