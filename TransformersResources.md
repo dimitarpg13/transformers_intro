@@ -72,9 +72,13 @@
 
 ## Embeddings
 
-* [Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
+* [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
 
 * [Efficient Estimation of Word Representations in Vector Space, Tomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_Google_2013.pdf)
+
+* [Factors Influencing the Surprising Instability of Word Embeddings, L. Wendtlandt et al, U. Michigan Ann Arbor, 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Factors_Influencing_the_Surprising_Instability_of_Word_Embeddings_Wendlandt_AnnArbor_2018.pdf)
+
+* [Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
 
 ## In-context learning with Transformers
 
