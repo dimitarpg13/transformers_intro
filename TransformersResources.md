@@ -46,6 +46,8 @@
 
 * [Transforming Auto-encoders, G. Hinton, A. Krizhevsky, et al., 2011](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TransformingAutoencodersHinton.pdf)
 
+* [A Neural Probabilistic Language Model, Y. Bengio et al, 2003](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Neural_Probabilistic_Language_Model_bengio03a.pdf)
+
 * [Learning to combine foveal glimpses with a third-order Boltzmann machine, H. Larochelle and G. Hinton, 2010](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/NIPS-2010-learning-to-combine-foveal-glimpses-with-a-third-order-boltzmann-machine-Paper.pdf)
 
 * [Long Short-Term Memory, Sepp Hochreiter et al., 1997](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/LongShortTermMemory.pdf)
