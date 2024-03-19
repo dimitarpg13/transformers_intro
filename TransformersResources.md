@@ -300,3 +300,6 @@
 
 [Stanford CS 25: Lecture 25 Retrieval Augmented Language Models](https://youtu.be/mE7IDf2SmJg)
 
+### Youtube videos and presentations
+
+[Attention is all you need (Transformer) - Model explanation (including math), Inference and Training, Umar Jamil, 2023, youtube video](https://youtu.be/bCz4OMemCcA)
