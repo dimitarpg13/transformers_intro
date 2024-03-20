@@ -305,3 +305,7 @@
 ### Youtube videos and presentations
 
 [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training, Umar Jamil, 2023, youtube video](https://youtu.be/bCz4OMemCcA)
+
+### GPT - DYI
+
+GPT in 60 Lines of code:  https://jaykmody.com/blog/gpt-from-scratch/
