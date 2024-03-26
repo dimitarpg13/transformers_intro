@@ -184,10 +184,22 @@
 * [Vision Transformers (ViT) in Image Recognition – 2024 Guide, Gaudenz Boesch, viso.ai blog](https://viso.ai/deep-learning/vision-transformer-vit/)
 
 ## State Space Models (an alternative of Transformers)
+* [HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
+
+* [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers, A. Gu et al, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Combining_Recurrent_Convolutional_and_Continuous-time_Models_with_Linear_State-Space_Layers_Gu_2021.pdf)
+
+* [Diagonal State Spaces are as Effective as Structured State Spaces, A. Gupta, A. Gu et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Diagonal_State_Spaces_are_as_Effective_as_Structured_State_Spaces_Gupta_Gu_2022.pdf)
+
+* [It’s Raw! Audio Generation with State-Space Models, K. Goel, A. Gu, et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/It_is_Raw-Audio_Generation_with_State-Space_Models_Goel_Gu_2022.pdf)
+
+* [How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections, A. Gu et al, Stanford U., 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/How_to_Train_Your_HiPPO-State_Space_Models_with_Generalized_Orthogonal_Basis_Projections_Gu_2022.pdf)
+
+* [Efficiently Modeling Long Sequences with Structured State Spaces, K. Goel, A. Gu et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Efficiently_Modeling_Long_Sequences_with_Structured_State_Spaces_Gu_Stanford_2022.pdf)
 
 * [Hungry Hungry Hippos: Towards Language Modeling with State Space Models, D. Fu, T. Dao, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Hungry_Hungry_Hippos-Towards_Language_Modeling_with_State_Space_Models_Fu_Dao_Stanford_2023.pdf)
 
-* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf.pdf)
+* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf.pdf) \
+  Mamba repo: https://github.com/state-spaces/mamba
 
 * [Mamba: Can it replace Transformers? Vishal Rajput, Medium Jan 8, 2024](https://medium.com/aiguys/mamba-can-it-replace-transformers-fe2032537916) \
   as a pdf file: [here](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba_Can_it_replace_Transformers_Vishal_Rajput_Jan_2024_Medium.pdf)  
