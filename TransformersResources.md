@@ -187,9 +187,13 @@
 
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf.pdf)
 
-* [Mamba: Can it replace Transformers? Vishal Rajput, Jan 8, 2024](https://medium.com/aiguys/mamba-can-it-replace-transformers-fe2032537916)
+* [Mamba: Can it replace Transformers? Vishal Rajput, Medium Jan 8, 2024](https://medium.com/aiguys/mamba-can-it-replace-transformers-fe2032537916)
+
+  as a pdf file: [here](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Mamba_Can_it_replace_Transformers_Vishal_Rajput_Jan_2024_Medium.pdf)  
 
 * [Why Mamba was rejected? Joe El Khoury, Medium, Feb 28, 2024](https://medium.com/@jelkhoury880/why-mamba-was-rejected-9b2f05f2141c)
+
+  as a pdf file: [here](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Why_Mamba_was_rejected_recently_at_the_ICLR_by_Joe_Elkhoury_Feb_2024_Medium.pdf)
 
 ## Medium
 * [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
