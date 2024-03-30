@@ -201,6 +201,8 @@
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf.pdf) \
   Mamba repo: https://github.com/state-spaces/mamba
 
+* [Mamba Explained, Kola Ayonrinde, The Gradient, March 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba_Explained_The_Gradient.pdf)
+
 * [Mamba: Can it replace Transformers? Vishal Rajput, Medium Jan 8, 2024](https://medium.com/aiguys/mamba-can-it-replace-transformers-fe2032537916) \
   as a pdf file: [here](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba_Can_it_replace_Transformers_Vishal_Rajput_Jan_2024_Medium.pdf)  
 
