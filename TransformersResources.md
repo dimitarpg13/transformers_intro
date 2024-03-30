@@ -184,6 +184,7 @@
 * [Vision Transformers (ViT) in Image Recognition – 2024 Guide, Gaudenz Boesch, viso.ai blog](https://viso.ai/deep-learning/vision-transformer-vit/)
 
 ## State Space Models (an alternative of Transformers)
+
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
 
 * [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers, A. Gu et al, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Combining_Recurrent_Convolutional_and_Continuous-time_Models_with_Linear_State-Space_Layers_Gu_2021.pdf)
@@ -200,6 +201,8 @@
 
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf.pdf) \
   Mamba repo: https://github.com/state-spaces/mamba
+
+* [Mamba Explained, Kola Ayonrinde, The Gradient, March 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba_Explained_The_Gradient.pdf)
 
 * [Mamba: Can it replace Transformers? Vishal Rajput, Medium Jan 8, 2024](https://medium.com/aiguys/mamba-can-it-replace-transformers-fe2032537916) \
   as a pdf file: [here](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba_Can_it_replace_Transformers_Vishal_Rajput_Jan_2024_Medium.pdf)  
