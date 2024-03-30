@@ -184,6 +184,7 @@
 * [Vision Transformers (ViT) in Image Recognition – 2024 Guide, Gaudenz Boesch, viso.ai blog](https://viso.ai/deep-learning/vision-transformer-vit/)
 
 ## State Space Models (an alternative of Transformers)
+
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
 
 * [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers, A. Gu et al, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Combining_Recurrent_Convolutional_and_Continuous-time_Models_with_Linear_State-Space_Layers_Gu_2021.pdf)
