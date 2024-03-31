@@ -43,4 +43,4 @@ This will be a systematic introduction to Transformers with well chosen examples
 
 ## Note
 
-This repository uses git Large File Storage feature. In order to download locally the large files (> 7MB) which are maintained by git LFS you will need to install the Git extension for versioning large files: https://git-lfs.com/
+This repository uses git Large File Storage feature. In order to download locally the large files (> 1MB) which are maintained by git LFS you will need to install the Git extension for versioning large files: https://git-lfs.com/
