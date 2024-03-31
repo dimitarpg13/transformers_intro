@@ -31,7 +31,7 @@ This will be a systematic introduction to Transformers with well chosen examples
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
- * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
+ * [Dynamical Systems, State-Space Models, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
 
  * [Information Theory, Statistical Mechanics, Diffusion Models](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
 
