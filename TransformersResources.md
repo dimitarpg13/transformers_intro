@@ -4,6 +4,8 @@
 
 * [Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/natural-language-processing-with-transformers-revised-edition-book.pdf)
 
+  github repo with source code: https://github.com/nlp-with-transformers/notebooks
+
 ## articles
 
 * [Adam: A Method for Stochasitc Optimization, D. Kingma et al, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Adam-A_method_for_stochastic_optimization_Kingma_2014.pdf)
