@@ -223,6 +223,14 @@
 
 * [De-coded: Transformers explained in plain English with Chris Hughes](https://towardsdatascience.com/de-coded-transformers-explained-in-plain-english-877814ba6429)
 
+* [Transformers Explained Visually — Not Just How, but Why They Work So Well, Ketan Doshi, Jun 2, 2021](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
+
+* [Transformers Explained Visually (Part 1): Overview of Functionality with Ketan DOshi, Dec 13, 2020](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
+
+* [Transformers Explained Visually (Part 2): How it works, step-by-step with Ketan Doshi, Jan 2, 2021](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
+
+* [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+
 * [Explainable AI: Visualizing Attention in Transformers with Abby Morgan](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
 
 * [Transformers - The Bigger The Better? with Jordi Torres](https://towardsdatascience.com/transformers-the-bigger-the-better-19f39f222ee3)
