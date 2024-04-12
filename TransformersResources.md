@@ -212,6 +212,10 @@
 * [Why Mamba was rejected? Joe El Khoury, Medium, Feb 28, 2024](https://medium.com/@jelkhoury880/why-mamba-was-rejected-9b2f05f2141c) \
   as a pdf file: [here](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Why_Mamba_was_rejected_recently_at_the_ICLR_by_Joe_Elkhoury_Feb_2024_Medium.pdf)
 
+## Time Series Forecasting
+
+* [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/time_series_forecasting/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
+
 ## Medium
 * [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
     
