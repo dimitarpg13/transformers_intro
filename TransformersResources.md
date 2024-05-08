@@ -84,6 +84,8 @@
 
 * [Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Introduction_to_Transformers-a_NLP_Perspective_Xiao_2023.pdf)
 
+* [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
+
 ## Embeddings
 
 * [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
