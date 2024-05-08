@@ -187,6 +187,20 @@
 
 * [Vision Transformers (ViT) in Image Recognition – 2024 Guide, Gaudenz Boesch, viso.ai blog](https://viso.ai/deep-learning/vision-transformer-vit/)
 
+## Long Short Term Memory (the precursor of Transformers)
+
+* [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
+
+* [Long Short Term Memory, Sepp Hochreiter, 1997](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/LongShortTermMemory.pdf)
+
+* [LST Can Solve Hard Long Time Lag Problems, Sepp Hochreiter et al, 1996](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/NIPS-1996-lstm-can-solve-hard-long-time-lag-problems-Paper_Hochreiter.pdf)
+
+* [Understandning LSTM : a Tutorial into Long Short Term Memory Recurrent Networks, Ralf C. Staudemeyer et al, 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TutorialOnLongShortTermMemory2019.pdf)
+
+* [Understanding LSTM: Colah's Blog, 2015](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/UnderstandingLSTMNetworks-colahsblog.pdf)
+
+* [Fundamentals of RNN and LSTM, Alex Sherstinsky, MIT, 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FundamentalsOfRNNandLSTMNetwork.pdf)
+
 ## State Space Models (an alternative of Transformers)
 
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
