@@ -86,6 +86,10 @@
 
 * [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
 
+## Understanding Transformers as Mathematical Models
+
+[A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
+
 ## Embeddings
 
 * [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
