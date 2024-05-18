@@ -88,7 +88,9 @@
 
 ## Understanding Transformers as Mathematical Models
 
-[A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
+* [A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
+
+  the full article online: [here](https://transformer-circuits.pub/2021/framework/index.html#onel-path-expansion)
 
 ## Embeddings
 
