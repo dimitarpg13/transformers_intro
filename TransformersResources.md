@@ -238,6 +238,26 @@
 
 * [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/time_series_forecasting/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
 
+* [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://towardsdatascience.com/itransformer-the-latest-breakthrough-in-time-series-forecasting-d538ddc6c5d1)
+
+    relevant paper: [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting, Yong Liu et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
+
+* [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Colin Raffel et al, Google, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Exploring_the_Limits_of_Transfer_Learning_with_a_Unified_Text-to-Text_Transformer_Raffel_2023.pdf)
+
+    relevant repo: https://github.com/google-research/text-to-text-transfer-transformer
+
+* [TimesFM: Google's Foundation Model For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/timesfm-googles-foundation-model)
+
+* [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
+
+    relevant paper: [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting, K. Rasul et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf)
+
+    relevant paper: [A decoder-only foundation model for time-series forecasting, A. Das et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_2023.pdf)
+
+    relevant paper: [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
+
+    relevant paper: [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
+
 ## Medium
 * [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
     
