@@ -16,7 +16,7 @@
 
 * [Attention Is All You Need, Vaswani et al, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Attention-is-all-you-need-NIPS-2017.pdf)
 
-* [The Annotated Transformer, 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheAnnotatedTransformer.pdf)
+* [The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheAnnotatedTransformer.pdf)
 
 * [The Illustrated Transformer, Jay Alamar's blog, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
 
@@ -185,7 +185,7 @@
 
 * [How Do Vision Transformers Work? N. Park et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/How_Do_Vision_Transformers_Work_Park_2022.pdf)
 
-* [An Image is Worth 16X16 Wwords: Transformers for Image Recognition at Scale, A. Dosovitskiy, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/BERTPretrainingofDeepBidirectionalTransformersforLanguageUnderstanding.pdf)
+* [An Image is Worth 16X16 Wwords: Transformers for Image Recognition at Scale, A. Dosovitskiy, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/An_Image_is_Worth_16X16_words-Transformers_for_Image_Recognition_at_Scale_Dosovitskiy_2021.pdf)
 
 * [Transformers for Image Recognition at Scale, Nel Houlsby and Dirk Weissenborn, Dec 2020, blog](https://blog.research.google/2020/12/transformers-for-image-recognition-at.html)
 
