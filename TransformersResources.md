@@ -70,6 +70,8 @@
 
 * [Generating Sequences with Recurrent Neural Networks, Alex Graves, UofToronto, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Generating_Sequences_With_Recurrent_Neural_Networks_Graves_2014.pdf)
 
+* [DeLighT: Deep and Light-weight Transformer, S. Mehta et al, 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/DeLighT-Deep_and_Light-weight_Transformer_Mehta_2020.pdf)
+
 * [Meta-Transformer: A Unified Framework for Multimodal Learning, Zhang, Y, et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Meta-Transformer_Unified_Framework_for_Multi-Modal_Learning_2023.pdf)
 
 * [Small-scale proxies for large-scale Transformer training instabilities, M. Wortsman et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Small-scale_proxies_for_large-scale_Transformer_training_instabilities_Wortsman_2023.pdf)
