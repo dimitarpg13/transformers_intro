@@ -140,6 +140,10 @@
 
 * [In-context Learning in Transformers - SLT Seminar 46, youtube video](https://www.youtube.com/watch?v=Y00HtwKO3BY)
 
+## Cross-Layer Attention in Transformers
+
+* [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention, William Brandon et al, MIT CSAIL, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention_Brandon_MIT_2024.pdf)
+
 ## Reinforcement Learning in Transformers
 
 * [Decision Transformer: Reinforcement Learning via Sequence Modeling, Lili Chen et al, UC Berkeley, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Decision_Transformer-Reinforcement_Learning_via_Sequence_Modeling_Chen_GoogleDeepMind_2021.pdf)
