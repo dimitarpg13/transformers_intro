@@ -227,6 +227,8 @@
 
 * [Efficiently Modeling Long Sequences with Structured State Spaces, K. Goel, A. Gu et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Efficiently_Modeling_Long_Sequences_with_Structured_State_Spaces_Gu_Stanford_2022.pdf)
 
+* [Multi-Head State Space Model for Speech Recognition, Yassir Fathullah et al, U of Cambridge, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Multi-Head_State_Space_Model_for_Speech_Recognition_Fathullah_2023.pdf)
+
 * [Hungry Hungry Hippos: Towards Language Modeling with State Space Models, D. Fu, T. Dao, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Hungry_Hungry_Hippos-Towards_Language_Modeling_with_State_Space_Models_Fu_Dao_Stanford_2023.pdf)
 
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf.pdf) \
