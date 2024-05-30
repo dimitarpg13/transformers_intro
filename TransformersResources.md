@@ -215,6 +215,8 @@
 
 ## State Space Models (an alternative of Transformers)
 
+* [Multi-Head State Space Model for Speech Recognition, Yassir Fathullah et al, U of Cambridge, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Multi-Head_State_Space_Model_for_Speech_Recognition_Fathullah_2023.pdf)
+
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
 
 * [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers, A. Gu et al, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Combining_Recurrent_Convolutional_and_Continuous-time_Models_with_Linear_State-Space_Layers_Gu_2021.pdf)
@@ -226,8 +228,6 @@
 * [How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections, A. Gu et al, Stanford U., 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/How_to_Train_Your_HiPPO-State_Space_Models_with_Generalized_Orthogonal_Basis_Projections_Gu_2022.pdf)
 
 * [Efficiently Modeling Long Sequences with Structured State Spaces, K. Goel, A. Gu et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Efficiently_Modeling_Long_Sequences_with_Structured_State_Spaces_Gu_Stanford_2022.pdf)
-
-* [Multi-Head State Space Model for Speech Recognition, Yassir Fathullah et al, U of Cambridge, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Multi-Head_State_Space_Model_for_Speech_Recognition_Fathullah_2023.pdf)
 
 * [Hungry Hungry Hippos: Towards Language Modeling with State Space Models, D. Fu, T. Dao, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Hungry_Hungry_Hippos-Towards_Language_Modeling_with_State_Space_Models_Fu_Dao_Stanford_2023.pdf)
 
