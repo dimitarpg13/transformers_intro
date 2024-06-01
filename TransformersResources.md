@@ -338,6 +338,8 @@
 
 * [Implementing Seq2Seq Models for Efficient Time Series Forecasting with Max Brenner](https://medium.com/@maxbrenner-ai/implementing-seq2seq-models-for-efficient-time-series-forecasting-88dba1d66187)
 
+* [Fine-Tune Smaller Transformer Models: Text Classification, Ida Silfverskiöld, 2024](https://towardsdatascience.com/fine-tune-smaller-transformer-models-text-classification-77cbbd3bf02b)
+
 ## Classes and Lectures on Transformers
 
 ### Stanford CS 25
