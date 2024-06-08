@@ -215,6 +215,8 @@
 
 ## State Space Models (an alternative of Transformers)
 
+* [Multi-Head State Space Model for Speech Recognition, Yassir Fathullah et al, U of Cambridge, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Multi-Head_State_Space_Model_for_Speech_Recognition_Fathullah_2023.pdf)
+
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
 
 * [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers, A. Gu et al, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Combining_Recurrent_Convolutional_and_Continuous-time_Models_with_Linear_State-Space_Layers_Gu_2021.pdf)
@@ -335,6 +337,8 @@
 * [Rubik’s cubes and Markov chains with Eduardo Teste](https://towardsdatascience.com/a-random-walk-on-the-rubiks-cube-684dd304bf3e)
 
 * [Implementing Seq2Seq Models for Efficient Time Series Forecasting with Max Brenner](https://medium.com/@maxbrenner-ai/implementing-seq2seq-models-for-efficient-time-series-forecasting-88dba1d66187)
+
+* [Fine-Tune Smaller Transformer Models: Text Classification, Ida Silfverskiöld, 2024](https://towardsdatascience.com/fine-tune-smaller-transformer-models-text-classification-77cbbd3bf02b)
 
 ## Classes and Lectures on Transformers
 
