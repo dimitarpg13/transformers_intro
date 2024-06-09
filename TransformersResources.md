@@ -88,13 +88,15 @@
 
 * [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
 
-## Understanding Transformers as Mathematical Models
+## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
 * [A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
 
   the full article online: [here](https://transformer-circuits.pub/2021/framework/index.html#onel-path-expansion)
 
 * [Understanding Transformer Reasoning Capabilities via Graph Algorithms, Clayton Sanford et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/explainability/Understanding_Transformer_Reasoning_Capabilities_via_Graph_Algorithms_Sanford_2024.pdf)
+
+* [Transformers need glasses! Information over-squashing in language tasks, Federico Barbero et al, Google DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/explainability/Transformers_need_glasses_Information_over-squashing_in_language_tasks_Barbero_DeepMind_2024.pdf)
 
 ## Embeddings
 
