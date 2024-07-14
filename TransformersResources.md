@@ -78,6 +78,8 @@
 
 * [Formal Algorithms for Transformers, M. Phuong et al, DeepMind, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Formal_Algorithms_for_Transformers_Phuong_DeepMind_2022.pdf)
 
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, Tri Dao et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FlashAttention_Fast_and_Memory_Efficient_Exact_Attention_with_IO_Awareness_Dao_Stanford_2022.pdf)
+
 * [Boolformer: Symbolic Regression of Logic Functions with Transformers, d'Ascoli et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/OnthePropertiesOfNeuralMachineTranslationEncoderDecoderApproaches.pdf)
 
 * [Transformer-Based Direct Hidden Markov Model for Machine Translation, W. Wang et al, Aachen U, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/markov/Transformer-Based_Direct_Hidden_Markov_Model_for_Machine_Translation_Wang_AachenU_2021.pdf)
