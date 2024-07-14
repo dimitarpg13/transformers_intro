@@ -78,7 +78,7 @@
 
 * [Formal Algorithms for Transformers, M. Phuong et al, DeepMind, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Formal_Algorithms_for_Transformers_Phuong_DeepMind_2022.pdf)
 
-* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, Tri Dao et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FlashAttention_Fast_and_Memory_Efficient_Exact_Attention_with_IO_Awareness_Dao_Stanford_2022.pdf)
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, Tri Dao et al, Stanford U., 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FlashAttention_Fast_and_Memory_Efficient_Exact_Attention_with_IO_Awareness_Dao_Stanford_2022.pdf)
 
 * [Boolformer: Symbolic Regression of Logic Functions with Transformers, d'Ascoli et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/OnthePropertiesOfNeuralMachineTranslationEncoderDecoderApproaches.pdf)
 
@@ -89,6 +89,8 @@
 * [Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Introduction_to_Transformers-a_NLP_Perspective_Xiao_2023.pdf)
 
 * [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
+
+* [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning, Tri Dao , 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FlashAttention2_Faster_Attention_with_Better_Parallelism_and_Work_Partitioning_Dao_2023.pdf)
 
 ## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
