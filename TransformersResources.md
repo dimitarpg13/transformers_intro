@@ -102,6 +102,8 @@
 
 * [Transformers need glasses! Information over-squashing in language tasks, Federico Barbero et al, Google DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/explainability/Transformers_need_glasses_Information_over-squashing_in_language_tasks_Barbero_DeepMind_2024.pdf)
 
+* [Understanding Transformers via N-gram Statistics, Timothy Nguyen, Google DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Understanding_Transformers_via_N-Gram_Statistics_Nguen_2024.pdf)
+
 ## Embeddings
 
 * [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
