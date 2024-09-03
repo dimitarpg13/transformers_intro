@@ -104,6 +104,8 @@
 
 * [Understanding Transformers via N-gram Statistics, Timothy Nguyen, Google DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Understanding_Transformers_via_N-Gram_Statistics_Nguen_2024.pdf)
 
+* [When Can Transformers Count to n? G. Yehudai et al, NYU, DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/When_Can_Transformers_Count_to_n_Yehudai_NYU_2024.pdf)
+
 ## Embeddings
 
 * [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
