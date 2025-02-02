@@ -94,6 +94,8 @@
 
 * [Selective Attention Improves Transformer, Yaniv Leviathan et al, Google Research, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Selective_Attention_Improves_Transformer_Leviathan_2024.pdf)
 
+* [Transformer and Titans : The Mathematics, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Transformer_Squared_and_Titans-The_Mathematics_Alonso_2025.pdf)
+
 ## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
 * [A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
