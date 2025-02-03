@@ -94,9 +94,6 @@
 
 * [Selective Attention Improves Transformer, Yaniv Leviathan et al, Google Research, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Selective_Attention_Improves_Transformer_Leviathan_2024.pdf)
 
-* [Transformer and Titans : The Mathematics, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Transformer_Squared_and_Titans-The_Mathematics_Alonso_2025.pdf)
-
-* [A Primer on the Inner Workings of Transformer-Based Language Models, A Ferrando et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/llm/Primer_on_The_Inner_Workings_of_Transformer-Based_Language_Models_Ferrando_2024.pdf)
 
 ## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
@@ -111,6 +108,10 @@
 * [Understanding Transformers via N-gram Statistics, Timothy Nguyen, Google DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Understanding_Transformers_via_N-Gram_Statistics_Nguen_2024.pdf)
 
 * [When Can Transformers Count to n? G. Yehudai et al, NYU, DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/When_Can_Transformers_Count_to_n_Yehudai_NYU_2024.pdf)
+
+* [Transformer and Titans : The Mathematics, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Transformer_Squared_and_Titans-The_Mathematics_Alonso_2025.pdf)
+
+* [A Primer on the Inner Workings of Transformer-Based Language Models, A Ferrando et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/llm/Primer_on_The_Inner_Workings_of_Transformer-Based_Language_Models_Ferrando_2024.pdf)
 
 ## Embeddings
 
