@@ -96,6 +96,8 @@
 
 * [Transformer and Titans : The Mathematics, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Transformer_Squared_and_Titans-The_Mathematics_Alonso_2025.pdf)
 
+* [A Primer on the Inner Workings of Transformer-Based Language Models, A Ferrando et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/llm/Primer_on_The_Inner_Workings_of_Transformer-Based_Language_Models_Ferrando_2024.pdf)
+
 ## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
 * [A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
