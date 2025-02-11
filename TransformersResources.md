@@ -165,6 +165,8 @@
 
 ## Reinforcement Learning in Transformers
 
+* [Improving Transformer World Models for Data-Efficient RL, Antoine Dedieu et al, Google DeepMind, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/reinforcement_learning/Improving_Transformer_World_Models_for_Data-Efficient_RL_Dedeiue_2025.pdf)
+
 * [Decision Transformer: Reinforcement Learning via Sequence Modeling, Lili Chen et al, UC Berkeley, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Decision_Transformer-Reinforcement_Learning_via_Sequence_Modeling_Chen_GoogleDeepMind_2021.pdf)
 
 * [Stanford CS 25: Lecture 4 Decision Transformer: Reinforcement Learning via Sequence Modeling, youtube video](https://youtu.be/w4Bw8WYL8Ps)
