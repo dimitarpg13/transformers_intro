@@ -290,6 +290,10 @@
 
     relevant paper: [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
 
+## Audio Processing with Transformers
+
+[TS3-Codec: Transformer-Based Simple Streaming Single Codec, H. Wu et al, Microsoft, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/audio/TS3-Codec-Transformer-Based_Simple_Streaming_Single_Codec_Wu_2025.pdf)
+
 ## Medium
 * [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
     
