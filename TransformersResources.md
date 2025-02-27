@@ -161,9 +161,32 @@
 
 * [In-context Learning in Transformers - SLT Seminar 46, youtube video](https://www.youtube.com/watch?v=Y00HtwKO3BY)
 
-## Cross-Layer Attention in Transformers
+## The Attention Mechanism and its Alternatives in Transformers
+
+* [The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
 
 * [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention, William Brandon et al, MIT CSAIL, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention_Brandon_MIT_2024.pdf)
+
+* [Attention Is All You Need, Vaswani et al, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Attention-is-all-you-need-NIPS-2017.pdf)
+
+* [The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheAnnotatedTransformer.pdf)
+
+* [The Illustrated Transformer, Jay Alamar's blog, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
+
+* [Attention in Natural Language Processing, Galassi et al., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/AttentionInNaturalLanguageProcessing.pdf)
+
+* [Deriving Machine Attention from Human Rationales, Y. Bao et al, 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Deriving_Machine_Attention_from_Human_Rationales_Bao_IBM-Watson_2018.pdf)
+
+* [HyperAttention: Long-context Attention in Near-Linear Time, Insu Han et al, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/HyperAttention-Long-context_Attention_in_Near-Linear_Time_Han_2023.pdf)
+
+
+* [Visualizing Attention in Vision Transformer with Aryan Jadon, Medium](https://medium.com/@aryanjadon/visualizing-attention-in-vision-transformer-c871908d86de)
+
+* [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+
+* [Explainable AI: Visualizing Attention in Transformers with Abby Morgan](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
+
+* [Stanford CS 25: Lecture 7 Self Attention and Non-parametric transformers (NPTs)](https://youtu.be/zejXBg-2Vpk)
 
 ## Reinforcement Learning in Transformers
 
