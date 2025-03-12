@@ -96,6 +96,8 @@
 
 * [Selective Attention Improves Transformer, Yaniv Leviathan et al, Google Research, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Selective_Attention_Improves_Transformer_Leviathan_2024.pdf)
 
+* [Transformers as Support Vector Machines, Davoud Ataee Tarzanagh et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/svm/Transformers_as_Support_Vector_Machines_Tarzanagh_225.pdf)
+
 
 ## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
