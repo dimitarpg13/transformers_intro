@@ -34,3 +34,4 @@ articles_and_books/llm/Primer_on_The_Inner_Workings_of_Transformer-Based_Languag
 articles_and_books/reinforcement_learning/Improving_Transformer_World_Models_for_Data-Efficient_RL_Dedeiue_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles_and_books/audio/TS3-Codec-Transformer-Based_Simple_Streaming_Single_Codec_Wu_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles_and_books/Eigen_Analysis_of_Self-Attention_and_its_Reconstruction_from_Partial_Computation_Bhojanapali_2021.pdf filter=lfs diff=lfs merge=lfs -text
+articles_and_books/svm/Transformers_as_Support_Vector_Machines_Tarzanagh_225.pdf filter=lfs diff=lfs merge=lfs -text
