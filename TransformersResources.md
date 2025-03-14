@@ -98,6 +98,7 @@
 
 * [Transformers as Support Vector Machines, Davoud Ataee Tarzanagh et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/svm/Transformers_as_Support_Vector_Machines_Tarzanagh_225.pdf)
 
+* [Transformers without Normalization, J. Zhu et al, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Transformers_without_Normalization_Zhu_2025.pdf)
 
 ## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
