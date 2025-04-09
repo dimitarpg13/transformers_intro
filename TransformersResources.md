@@ -178,6 +178,8 @@
 
 * [Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation, Srinadh Bhojanapalli et al, Google Research, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Eigen_Analysis_of_Self-Attention_and_its_Reconstruction_from_Partial_Computation_Bhojanapali_2021.pdf)
 
+* [Relative Position Encodings, blog discussion on paper "Self-Attention with Relative Position Representations"](https://paperswithcode.com/method/relative-position-encodings)
+
 * [Attention Is All You Need, Vaswani et al, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Attention-is-all-you-need-NIPS-2017.pdf)
 
 * [The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheAnnotatedTransformer.pdf)
