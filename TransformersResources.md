@@ -172,6 +172,8 @@
 
 * [The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
 
+* [Capturing Relative Positional Information Before RoPE In LLMs, Damien Benveniste, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Capturing_Relative_Positional_Information_Before_RoPE_In_LLMs_Benveniste_2025.pdf)
+
 * [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention, William Brandon et al, MIT CSAIL, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention_Brandon_MIT_2024.pdf)
 
 * [Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation, Srinadh Bhojanapalli et al, Google Research, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Eigen_Analysis_of_Self-Attention_and_its_Reconstruction_from_Partial_Computation_Bhojanapali_2021.pdf)
