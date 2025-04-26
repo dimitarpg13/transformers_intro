@@ -100,6 +100,9 @@
 
 * [Transformers without Normalization, J. Zhu et al, Meta FAIR, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Transformers_without_Normalization_Zhu_2025.pdf)
 
+[... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
+
+
 ## Understanding Transformers, Interpretability of Transformers, Mathematical Models of Transformers
 
 * [A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
@@ -118,13 +121,13 @@
 
 * [A Primer on the Inner Workings of Transformer-Based Language Models, A Ferrando et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/llm/Primer_on_The_Inner_Workings_of_Transformer-Based_Language_Models_Ferrando_2024.pdf)
 
-[... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
-
 ### Insights from Large Language Models
 
 * [Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skein et al, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/llm/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
 
 * [Byte Latent Transformer: Patches Scale Better Than Tokens, Artidoro Pagnoni et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Byte_Latent_Transformer-Patches_Scale_Better_Than_Tokens_Pagnoni_2024.pdf)
+
+  github repo: https://github.com/facebookresearch/blt
 
 ## Embeddings
 
