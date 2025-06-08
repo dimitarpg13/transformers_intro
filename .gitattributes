@@ -39,3 +39,4 @@ articles_and_books/Transformers_without_Normalization_Zhu_2025.pdf filter=lfs di
 articles_and_books/llm/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles_and_books/Capturing_Relative_Positional_Information_Before_RoPE_In_LLMs_Benveniste_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles_and_books/Byte_Latent_Transformer-Patches_Scale_Better_Than_Tokens_Pagnoni_2024.pdf filter=lfs diff=lfs merge=lfs -text
+docs/Transformer-based_Payments_Foundation_Model.docx filter=lfs diff=lfs merge=lfs -text
