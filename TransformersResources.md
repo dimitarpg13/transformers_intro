@@ -276,6 +276,11 @@
 
 * [Fundamentals of RNN and LSTM, Alex Sherstinsky, MIT, 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FundamentalsOfRNNandLSTMNetwork.pdf)
 
+## Energy-based Methods in Transformers 
+
+* [Energy-Based Transformers are Scalable Learners and Thinkers, Alexi Gladstone et al, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/energy-based_methods/Energy-Based_Transformers_are_Scalable_Learners_and_Thinkers_Gladstone_2025.pdf)
+
+
 ## State Space Models (an alternative of Transformers)
 
 * [Multi-Head State Space Model for Speech Recognition, Yassir Fathullah et al, U of Cambridge, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/state_space_models/Multi-Head_State_Space_Model_for_Speech_Recognition_Fathullah_2023.pdf)
