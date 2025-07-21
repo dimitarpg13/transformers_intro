@@ -41,3 +41,4 @@ articles_and_books/Capturing_Relative_Positional_Information_Before_RoPE_In_LLMs
 articles_and_books/Byte_Latent_Transformer-Patches_Scale_Better_Than_Tokens_Pagnoni_2024.pdf filter=lfs diff=lfs merge=lfs -text
 docs/Transformer-based_Payments_Foundation_Model.docx filter=lfs diff=lfs merge=lfs -text
 articles_and_books/emergence/From_Colors_to_Classes-Emergence_of_Concepts_in_Vision_Transformers_Dorszewski_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles_and_books/energy-based_methods/Energy-Based_Transformers_are_Scalable_Learners_and_Thinkers_Gladstone_2025.pdf filter=lfs diff=lfs merge=lfs -text
