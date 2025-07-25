@@ -189,6 +189,8 @@
 
 * [Attention Is All You Need, Vaswani et al, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Attention-is-all-you-need-NIPS-2017.pdf)
 
+* [Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks, J. Schmidhuber et al, 1992](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/attention/Learning_to_Control_Fast-Weight_Memories_1992-schmidhuber.pdf)
+
 * [The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheAnnotatedTransformer.pdf)
 
 * [The Illustrated Transformer, Jay Alamar's blog, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
