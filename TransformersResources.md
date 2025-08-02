@@ -175,6 +175,10 @@
 
 * [In-context Learning in Transformers - SLT Seminar 46, youtube video](https://www.youtube.com/watch?v=Y00HtwKO3BY)
 
+## Self-Improving Transformers
+
+* [Self-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges, Nayoung Lee et al, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/self_improvement/Self-Improving_Transformers_Overcome_Easy-to-Hard_and_Length_Generalization_Challenges_Lee_2025.pdf)
+
 ## The Attention Mechanism and its Alternatives in Transformers
 
 * [The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
