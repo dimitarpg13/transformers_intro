@@ -214,6 +214,8 @@
 
 * [Stanford CS 25: Lecture 7 Self Attention and Non-parametric transformers (NPTs)](https://youtu.be/zejXBg-2Vpk)
 
+* [Scaled-Dot-Product Attention as One-Sided Entropic Optimal Transport, Elon Litman, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/attention/Scaled-Dot-Product_Attention_as_One-Sided_Entropic_Optimal_Transport_Littman_2025.pdf)
+
 ## Reinforcement Learning in Transformers
 
 * [Improving Transformer World Models for Data-Efficient RL, Antoine Dedieu et al, Google DeepMind, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/reinforcement_learning/Improving_Transformer_World_Models_for_Data-Efficient_RL_Dedeiue_2025.pdf)
