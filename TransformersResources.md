@@ -218,6 +218,8 @@
 
 * [All You Need To Know About The Self-Attention Layer, Damien Benveniste, The AiEdge, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/attention/All_You_Need_To_Know_About_The_Self-Attention_Layer_Beneveniste_2025.pdf)
 
+* [The Mathematics of Causality, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/attention/The_Mathematics_of_Causality_Noguer_i_Alonso_2025.pdf)
+
 ## Reinforcement Learning in Transformers
 
 * [Improving Transformer World Models for Data-Efficient RL, Antoine Dedieu et al, Google DeepMind, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/reinforcement_learning/Improving_Transformer_World_Models_for_Data-Efficient_RL_Dedeiue_2025.pdf)
