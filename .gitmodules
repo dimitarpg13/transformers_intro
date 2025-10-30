@@ -1,3 +1,6 @@
 [submodule "transformer_examples"]
 	path = transformer_examples
 	url = https://github.com/dimitarpg13/transformer_examples.git
+[submodule "attention-is-all-you-need-paper"]
+	path = attention-is-all-you-need-paper
+	url = https://github.com/dimitarpg13/attention-is-all-you-need-paper.git
