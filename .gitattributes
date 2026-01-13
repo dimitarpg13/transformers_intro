@@ -51,3 +51,4 @@ articles_and_books/memory/Memorizing_Transformers_Wu_2022.pdf filter=lfs diff=lf
 articles_and_books/medical_applications/Learning_the_natural_history_of_human_disease_with_generative_transformers_Shamtko_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles_and_books/attention/NeurIPS-2023-fast-attention-over-long-sequences-with-dynamic-sparse-flash-attention-Paper-Conference.pdf filter=lfs diff=lfs merge=lfs -text
 articles_and_books/attention/Attention_as_Discrete-Time_Markov_Chains_Erel_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles_and_books/attention/Attention_Mechanisms_in_Neural_Networks_Hasi_Hays_2026.pdf filter=lfs diff=lfs merge=lfs -text
