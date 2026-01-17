@@ -121,6 +121,8 @@
 
 * [A Primer on the Inner Workings of Transformer-Based Language Models, A Ferrando et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/llm/Primer_on_The_Inner_Workings_of_Transformer-Based_Language_Models_Ferrando_2024.pdf)
 
+* [The Complete Mathematics of Transformers: A Rigorous Treatment with Full Derivations, Proofs, and Theoretical Foundations, Miquel Noguer i Alonso, 2026](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/The_Complete_Mathematics_of_Transformers_Alonso_2026.pdf)
+
 ### Insights from Large Language Models
 
 * [Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skein et al, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/llm/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
