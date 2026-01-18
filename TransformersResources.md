@@ -109,7 +109,7 @@
 
   the full article online: [here](https://transformer-circuits.pub/2021/framework/index.html#onel-path-expansion)
 
-* [Privileged Bases in the Transformer Residual Stream, Nelson Elhage,Robert Lasenby,Christopher Olah, Anthropic, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Privileged_Bases_in_the_Transformer_Residual_Stream_Elhage_2023.pdf)
+* [Privileged Bases in the Transformer Residual Stream, Nelson Elhage, Robert Lasenby, Christopher Olah, Anthropic, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Privileged_Bases_in_the_Transformer_Residual_Stream_Elhage_2023.pdf)
 
   the full article online: [here](https://transformer-circuits.pub/2023/privileged-basis/index.html)
 
