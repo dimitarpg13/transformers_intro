@@ -109,6 +109,14 @@
 
   the full article online: [here](https://transformer-circuits.pub/2021/framework/index.html#onel-path-expansion)
 
+* [Privileged Bases in the Transformer Residual Stream, Nelson Elhage,Robert Lasenby,Christopher Olah, 2023](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Privileged_Bases_in_the_Transformer_Residual_Stream_Elhage_2023.pdf)
+
+  the full article online: [here](https://transformer-circuits.pub/2023/privileged-basis/index.html)
+
+* [Toy Models of Superposition, N. Elhage et al, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Toy_Models_of_Superposition_Elhage_2022.pdf)
+
+  the full article online: [here](https://transformer-circuits.pub/2022/toy_model/index.html)
+
 * [Understanding Transformer Reasoning Capabilities via Graph Algorithms, Clayton Sanford et al, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/explainability/Understanding_Transformer_Reasoning_Capabilities_via_Graph_Algorithms_Sanford_2024.pdf)
 
 * [Transformers need glasses! Information over-squashing in language tasks, Federico Barbero et al, Google DeepMind, 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/explainability/Transformers_need_glasses_Information_over-squashing_in_language_tasks_Barbero_DeepMind_2024.pdf)
