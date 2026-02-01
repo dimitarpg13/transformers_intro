@@ -230,6 +230,8 @@
 
 * [The Mathematics of Causality, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/attention/The_Mathematics_of_Causality_Noguer_i_Alonso_2025.pdf)
 
+* [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free, Z. Qiu et al, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/attention/Gated_Attention_for_Large_Language_Models-Non-linearity_Sparsity_and_Attention-Sink-Free_Qiu_2025.pdf)
+
 ## Reinforcement Learning in Transformers
 
 * [Improving Transformer World Models for Data-Efficient RL, Antoine Dedieu et al, Google DeepMind, 2025](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/reinforcement_learning/Improving_Transformer_World_Models_for_Data-Efficient_RL_Dedeiue_2025.pdf)
